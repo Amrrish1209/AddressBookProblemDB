@@ -1,0 +1,8 @@
+id,first_name,last_name,address,city,state,zip,phone_number,email,name,type
+1,Amrrish,Roshan,"123 Main St",Nagercoil,"TAMIL NADU",12345,555-555-5555,amrrish@gmail.com,personal,Friend
+3,Akash,G,"245 street",hosur,"TAMIL NADU",12345,555-555-5555,akash@gmail.com,personal,Friend
+4,prabu,kumar,"345 street",chennai,"TAMIL NADU",1234567,896-555-5555,prabu@gmail.com,personal,Friend
+5,pradeep,k,"765 street",sattur,"TAMIL NADU",7234567,896-987-5555,pradeep@gmail.com,professions,profession
+6,shirmala,t,"765 street",Nagercoil,"TAMIL NADU",7234567,896-987-5555,shirmalagmail.com,professions,profession
+7,ajay,prabu,"123 Main St",coimbatore,"TAMIL NADU",12345,555-555-5555,ajay@gmail.com,Personal,Friend
+8,roshan,jenniel,"567 Main St",Nagercoil,"TAMIL NADU",12345,555-555-5555,roshan@gmail.com,Personal,Family
